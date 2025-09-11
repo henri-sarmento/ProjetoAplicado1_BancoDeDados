@@ -9,6 +9,9 @@ Este projeto tem como objetivo desenvolver um painel analítico interativo com b
 # Equipe
 
 Luana Isabella Xavier
+
 Henrique Sarmento 
+
 Lucas José de Carvalho
+
 Sandro Neves Victorio
